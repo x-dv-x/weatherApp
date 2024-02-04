@@ -1,0 +1,20 @@
+node_modules/
+.env
+
+# editor files
+.vscode/
+
+# Enhance temp files
+.enhance/
+
+# Generated assets
+public/static.json
+public/browser/
+public/bundles/
+public/pages/
+
+# Architect CloudFormation
+sam.json
+sam.yaml
+
+.DS_Store
